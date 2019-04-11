@@ -1,7 +1,7 @@
 # rpm_device is the name of the ported device
 %define rpm_device sagit
 # rpm_vendor is used in the rpm space
-%define rpm_vendor sagit
+%define rpm_vendor xiaomi
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Xiaomi
 %define device_pretty Mi 6 (sagit)
